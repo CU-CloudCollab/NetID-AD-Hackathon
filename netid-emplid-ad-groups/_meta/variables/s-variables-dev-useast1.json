@@ -1,5 +1,6 @@
 {
   "region": "us-east-1",
   "resourcesStackName": "netid-emplid-ad-groups-dev-r",
-  "iamRoleArnLambda": "arn:aws:iam::101334791012:role/netid-emplid-ad-groups-dev-r-IamRoleLambda-MR83UWMQIMOE"
+  "iamRoleArnLambda": "arn:aws:iam::101334791012:role/netid-emplid-ad-groups-dev-r-IamRoleLambda-MR83UWMQIMOE",
+  "apiGatewayApi": "netid-emplid-ad-groups"
 }
