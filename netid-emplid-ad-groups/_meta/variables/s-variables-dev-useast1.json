@@ -1,5 +1,5 @@
 {
   "region": "us-east-1",
   "resourcesStackName": "netid-emplid-ad-groups-dev-r",
-  "iamRoleArnLambda": "arn:aws:iam::601654722933:role/netid-emplid-ad-groups-dev-r-IamRoleLambda-1GIB7KEV2J1EV"
+  "iamRoleArnLambda": "arn:aws:iam::101334791012:role/netid-emplid-ad-groups-dev-r-IamRoleLambda-MR83UWMQIMOE"
 }
