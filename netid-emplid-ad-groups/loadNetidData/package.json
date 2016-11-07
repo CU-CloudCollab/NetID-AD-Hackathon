@@ -1,0 +1,15 @@
+{
+  "name": "load-netid-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "redis": "^2.6.3"
+  }
+}

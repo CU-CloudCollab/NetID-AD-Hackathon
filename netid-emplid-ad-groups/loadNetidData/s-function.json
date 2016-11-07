@@ -1,0 +1,25 @@
+{
+  "name": "loadNetidData",
+  "runtime": "nodejs4.3",
+  "description": "Serverless Lambda function for project: netid-emplid-ad-groups",
+  "customName": false,
+  "customRole": false,
+  "handler": "handler.handler",
+  "timeout": 30,
+  "memorySize": 1024,
+  "authorizer": {},
+  "custom": {
+    "excludePatterns": []
+  },
+  "endpoints": [],
+  "events": [],
+  "environment": {
+    "SERVERLESS_PROJECT": "${project}",
+    "SERVERLESS_STAGE": "${stage}",
+    "SERVERLESS_REGION": "${region}"
+  },
+  "vpc": {
+    "securityGroupIds": ["sg-2d01c350"],
+    "subnetIds": ["subnet-85fc26de", "subnet-86fc26dd"]
+  }
+}
