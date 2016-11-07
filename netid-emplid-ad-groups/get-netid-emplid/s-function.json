@@ -18,7 +18,7 @@
       "type": "AWS",
       "authorizationType": "none",
       "authorizerFunction": false,
-      "apiKeyRequired": false,
+      "apiKeyRequired": true,
       "requestParameters": {
           "integration.request.querystring.id": "method.request.querystring.id"
       },
